@@ -1,0 +1,10 @@
+.jumbotron {
+    text-align: center;
+    font-family: monospace;
+}
+
+.fw-light {
+    color: black;
+    margin: 100px;
+    font-size: 55px;
+}
