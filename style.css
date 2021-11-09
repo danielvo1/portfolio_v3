@@ -2,11 +2,15 @@
     text-align: center;
 }
 
+.nav-link{
+    color: brown;
+}
 
 .jumbotron {
     font-size: 10vw;
     text-align: center;
     font-family: monospace;
+    background-color: beige;
 }
 
 .fw-light {
@@ -16,7 +20,7 @@
 }
 
 .bio_text{
-    font-family: 7vw;
+    font-family: 8vw;
 }
 .profile_pic{
     width: 25%;
